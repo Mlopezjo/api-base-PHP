@@ -1,0 +1,1 @@
+<?php #Environnementdefine('APPNAME', 'NIERIAN APP NAME');define('APPURL', 'http://nirian.test');define('DBNAME', 'nirian');define('HOST', 'localhost');define('USERNAME', 'root');define('PASSWORD', 'mEs_172513');

@@ -1,0 +1,21 @@
+{
+    "name": "mlopezjo/myapp",
+    "authors": [
+        {
+            "name": "mlopezjo",
+            "email": "matthieu@lopezjover.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "Router\\": "config/routes/",
+            "Config\\": "config",
+            "App\\": "app/",
+            "Auth\\": "auth/",
+            "Database\\": "config/database/"
+        }
+    },
+    "require": {
+        "rbdwllr/reallysimplejwt": "^4.0"
+    }
+}
